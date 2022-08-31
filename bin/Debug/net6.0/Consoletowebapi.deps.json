@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Consoletowebapi/1.0.0": {
+        "runtime": {
+          "Consoletowebapi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Consoletowebapi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
