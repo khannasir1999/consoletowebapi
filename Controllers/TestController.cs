@@ -2,13 +2,15 @@
 
 namespace Consoletowebapi.Controllers
 {
+    [Route("api/[controller]")]
     [ApiController]
-    [Route("test")]
+
     public class TestController: ControllerBase
     {
+        [Route("t")]
         public string Get()
         {
-            return ("Hello from Get");
+            return ("Hello from Get in test class");
         }
     }
 }

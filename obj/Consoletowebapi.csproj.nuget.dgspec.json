@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Nasir\\Consoletowebapi\\Consoletowebapi.csproj": {}
+    "C:\\Users\\SA Systems\\Documents\\Nasir\\Consoletowebapi\\Consoletowebapi.csproj": {}
   },
   "projects": {
-    "D:\\Nasir\\Consoletowebapi\\Consoletowebapi.csproj": {
+    "C:\\Users\\SA Systems\\Documents\\Nasir\\Consoletowebapi\\Consoletowebapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Nasir\\Consoletowebapi\\Consoletowebapi.csproj",
+        "projectUniqueName": "C:\\Users\\SA Systems\\Documents\\Nasir\\Consoletowebapi\\Consoletowebapi.csproj",
         "projectName": "Consoletowebapi",
-        "projectPath": "D:\\Nasir\\Consoletowebapi\\Consoletowebapi.csproj",
+        "projectPath": "C:\\Users\\SA Systems\\Documents\\Nasir\\Consoletowebapi\\Consoletowebapi.csproj",
         "packagesPath": "C:\\Users\\SA Systems\\.nuget\\packages\\",
-        "outputPath": "D:\\Nasir\\Consoletowebapi\\obj\\",
+        "outputPath": "C:\\Users\\SA Systems\\Documents\\Nasir\\Consoletowebapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SA Systems\\AppData\\Roaming\\NuGet\\NuGet.Config",

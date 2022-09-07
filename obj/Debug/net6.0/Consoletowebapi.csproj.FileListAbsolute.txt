@@ -17,3 +17,22 @@ D:\Nasir\Consoletowebapi\obj\Debug\net6.0\Consoletowebapi.MvcApplicationPartsAss
 D:\Nasir\Consoletowebapi\obj\Debug\net6.0\staticwebassets.build.json
 D:\Nasir\Consoletowebapi\obj\Debug\net6.0\staticwebassets.development.json
 D:\Nasir\Consoletowebapi\obj\Debug\net6.0\scopedcss\bundle\Consoletowebapi.styles.css
+C:\Users\SA Systems\Documents\Nasir\Consoletowebapi\bin\Debug\net6.0\Consoletowebapi.exe
+C:\Users\SA Systems\Documents\Nasir\Consoletowebapi\bin\Debug\net6.0\Consoletowebapi.deps.json
+C:\Users\SA Systems\Documents\Nasir\Consoletowebapi\bin\Debug\net6.0\Consoletowebapi.runtimeconfig.json
+C:\Users\SA Systems\Documents\Nasir\Consoletowebapi\bin\Debug\net6.0\Consoletowebapi.dll
+C:\Users\SA Systems\Documents\Nasir\Consoletowebapi\bin\Debug\net6.0\Consoletowebapi.pdb
+C:\Users\SA Systems\Documents\Nasir\Consoletowebapi\obj\Debug\net6.0\Consoletowebapi.csproj.AssemblyReference.cache
+C:\Users\SA Systems\Documents\Nasir\Consoletowebapi\obj\Debug\net6.0\Consoletowebapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SA Systems\Documents\Nasir\Consoletowebapi\obj\Debug\net6.0\Consoletowebapi.AssemblyInfoInputs.cache
+C:\Users\SA Systems\Documents\Nasir\Consoletowebapi\obj\Debug\net6.0\Consoletowebapi.AssemblyInfo.cs
+C:\Users\SA Systems\Documents\Nasir\Consoletowebapi\obj\Debug\net6.0\Consoletowebapi.csproj.CoreCompileInputs.cache
+C:\Users\SA Systems\Documents\Nasir\Consoletowebapi\obj\Debug\net6.0\Consoletowebapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SA Systems\Documents\Nasir\Consoletowebapi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\SA Systems\Documents\Nasir\Consoletowebapi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\SA Systems\Documents\Nasir\Consoletowebapi\obj\Debug\net6.0\scopedcss\bundle\Consoletowebapi.styles.css
+C:\Users\SA Systems\Documents\Nasir\Consoletowebapi\obj\Debug\net6.0\Consoletowebapi.dll
+C:\Users\SA Systems\Documents\Nasir\Consoletowebapi\obj\Debug\net6.0\refint\Consoletowebapi.dll
+C:\Users\SA Systems\Documents\Nasir\Consoletowebapi\obj\Debug\net6.0\Consoletowebapi.pdb
+C:\Users\SA Systems\Documents\Nasir\Consoletowebapi\obj\Debug\net6.0\Consoletowebapi.genruntimeconfig.cache
+C:\Users\SA Systems\Documents\Nasir\Consoletowebapi\obj\Debug\net6.0\ref\Consoletowebapi.dll
