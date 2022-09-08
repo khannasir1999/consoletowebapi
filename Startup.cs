@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Builder;
+﻿using Consoletowebapi.Repository_Layer;
+using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 
@@ -11,7 +12,13 @@ namespace Consoletowebapi
         {
             services.AddControllers();
             services.AddTransient<CustomMiddleware1>();
-
+            //in addsingleton one instance is shared along the application no mater how muc http requests come however previous data is destroyed if app;ication 
+            //restarts
+            //services.AddSingleton<IproductRepository , productRepository>();
+            //in AddScoped a new instance is created for every new http requests hence previous data is lost on every http request
+            //services.AddScoped<IproductRepository, productRepository>();
+            //AddTransieent a new instance is created for every http request such that now sharing of instances is done as in AddScoped<>
+            services.AddTransient<IproductRepository, productRepository>();
         }
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
