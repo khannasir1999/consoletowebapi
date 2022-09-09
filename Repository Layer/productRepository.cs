@@ -18,5 +18,10 @@ namespace Consoletowebapi.Repository_Layer
         {
             return Products;
         }
+
+        string IproductRepository.GetName()
+        {
+            return "name from product repository";
+        }
     }
 }

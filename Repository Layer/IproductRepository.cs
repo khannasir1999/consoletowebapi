@@ -6,5 +6,6 @@ namespace Consoletowebapi.Repository_Layer
     {
         int AddProduct(ProductsModel product);
         List<ProductsModel> getProducts();
+        public string GetName();
     }
 }
